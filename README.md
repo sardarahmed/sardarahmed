@@ -19,12 +19,12 @@
 
 ### WHO AM I! 🤔
 
-I am a passionate Software Engineer from Pakistan 🤍💚
+I am a passionate Data Scientist  🤍💚
 
 - 💻 Currently, working on some projects, will notify timely 😊
 - 🤩 Learning Data Science along side Machine Learning 💥
 - 👯 I’m looking to collaborate in open source projects ✌
-- 🥅 2023 Goals: Contribute more to Open Source projects. Yay!
+- 🥅 2025 Goals: Contribute more to Open Source projects. Yay!
   <br />
 
 ### 📕 Latest Blog Post
